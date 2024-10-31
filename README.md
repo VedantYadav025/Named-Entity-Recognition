@@ -26,4 +26,4 @@ The features used for SVM are:
  
 * Run the following command: `streamlit run ner_demo.py`
 
-* In the GUI window, enter any sentence (in English)
+* In the GUI window, enter any sentence (in English), and it will do the NER of each word.
