@@ -17,11 +17,11 @@ The features used for SVM are:
 * Clone the repository
 
 * Install the following libraries:
-  ** numpy
-  ** matplotlib
-  ** nltk
-  ** datasets (huggingface)
-  ** sklearn
-  ** string
+  numpy
+  matplotlib
+  nltk
+  datasets (huggingface)
+  sklearn
+  string
  
 * Run the following command: `streamlit run ner_demo.py`
