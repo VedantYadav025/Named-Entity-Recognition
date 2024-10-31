@@ -16,7 +16,7 @@ The features used for SVM are:
 
 * Training Accuracy: 0.999238
 * Validation Accuracy: 0.99186
-* Test Accuracy: 0.098346
+* Test Accuracy: 0.98346
 
 # Steps to Use
 
