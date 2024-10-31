@@ -12,4 +12,16 @@ The features used for SVM are:
 * We take special cases, such as if the word is a preposition or a determiner, we add a feature   which helps us show whether the word is surrounder by captial letter words or not.
 
 
+# Steps to Use
 
+* Clone the repository
+
+* Install the following libraries:
+  ** numpy
+  ** matplotlib
+  ** nltk
+  ** datasets (huggingface)
+  ** sklearn
+  ** string
+ 
+* Run the following command: `streamlit run ner_demo.py`
